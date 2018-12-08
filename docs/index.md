@@ -3,16 +3,30 @@
 Getting up and running with git. Talk made from non an expert
 
 # Intro
-!!! note
+!!! TODO
     What is Git
     Quick importance of a source control
 ## Other options
-!!! note    
+!!! TODO
     Git not the only one
     Mention other source control tools
     Git sort of the new kid in the block but very popular. It’s a required skill for majority of work places now.
 
 ## Git installation
+### Download git
+ Git is available for Windows, Linux and Mac from https://git-scm.com/downloads
+## Getting Started
+### Open a shell
+Open a terminal window. Yes we will work from the command line! Get over it.
+If git command is mapped to the environment path type.
+
+```shell
+>git --version
+>git version 2.18.0.windows.1
+```
+!!! Note
+    Git version and os may produce a different output.
+
 * Create a local repository
 * Git init
 * Git status

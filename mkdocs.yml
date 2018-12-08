@@ -8,3 +8,12 @@ theme:
     hljs_languages:
         - yaml
         - rust
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - def_list
+
+plugins:
+  - search
