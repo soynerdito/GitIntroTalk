@@ -8,6 +8,8 @@ theme:
     hljs_languages:
         - yaml
         - rust
+nav:
+- Home: 'index.md'
 
 markdown_extensions:
     - toc:
