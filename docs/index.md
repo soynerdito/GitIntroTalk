@@ -4,9 +4,12 @@ Getting up and running with git. Talk made from non an expert
 
 # Intro
 
-!!! warning "TODO Add here"
-    * What is Git
-    * Quick importance of a source control
+Git is a Version Control System. Similar to SVN and Mercurial.
+## What is a Version Control System
+Also known as Version Control or Source Control. It is used to manage changes to files within a particular project.
+
+## Advantage
+We can track changes an have backup
 
 ## Other options
 
